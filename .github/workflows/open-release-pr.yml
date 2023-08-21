@@ -17,5 +17,5 @@ jobs:
         with:
           release-type: node
           default-branch: main
-          changes-bracnh: next
+          changes-branch: next
           command: release-pr
