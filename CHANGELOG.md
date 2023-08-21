@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.4.0](https://github.com/dgellow/test-release-please-behaviour/compare/v1.3.0...v1.4.0) (2023-08-21)
+
+
+### Features
+
+* setup github action ([e903f8e](https://github.com/dgellow/test-release-please-behaviour/commit/e903f8e9a8710d2683d235c4a719341d34c254f1))
+
+
+### Bug Fixes
+
+* split in two workflows ([c51e667](https://github.com/dgellow/test-release-please-behaviour/commit/c51e667c653f0aa856ee907b8fd8de07c2544b8c))
+
 ## [1.3.0](https://github.com/dgellow/test-release-please-behaviour/compare/v1.2.0...v1.3.0) (2023-08-21)
 
 
