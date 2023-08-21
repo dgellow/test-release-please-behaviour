@@ -1,0 +1,21 @@
+on:
+  push:
+    branches:
+      - next
+
+permissions:
+  contents: write
+  pull-requests: write
+
+name: open release Pull Request
+
+jobs:
+  release-please:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: dgellow/release-please-action@main
+        with:
+          release-type: node
+          default-branch: main
+          changes-bracnh: next
+          command: release-pr
