@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.10.0](https://github.com/dgellow/test-release-please-behaviour/compare/v1.9.0...v1.10.0) (2023-08-22)
+
+
+### Features
+
+* add twelth file ([e0d1369](https://github.com/dgellow/test-release-please-behaviour/commit/e0d1369688b3fb1499778fd7c400999c8654834d))
+
 ## [1.9.0](https://github.com/dgellow/test-release-please-behaviour/compare/v1.8.0...v1.9.0) (2023-08-22)
 
 
