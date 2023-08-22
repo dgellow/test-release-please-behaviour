@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.6.0](https://github.com/dgellow/test-release-please-behaviour/compare/v1.5.0...v1.6.0) (2023-08-22)
+
+
+### Features
+
+* add ninth file ([028d58c](https://github.com/dgellow/test-release-please-behaviour/commit/028d58c5d152986e575d503854bfbb86c750c1f8))
+
+
+### Bug Fixes
+
+* add a small change ([67bd10e](https://github.com/dgellow/test-release-please-behaviour/commit/67bd10ea1784e0c1825fa417378cdaa90f59a7d7))
+
 ## [1.5.0](https://github.com/dgellow/test-release-please-behaviour/compare/v1.4.0...v1.5.0) (2023-08-21)
 
 
