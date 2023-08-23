@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.10.1](https://github.com/dgellow/test-release-please-behaviour/compare/v1.10.0...v1.10.1) (2023-08-23)
+
+
+### Bug Fixes
+
+* add another small change ([82301f0](https://github.com/dgellow/test-release-please-behaviour/commit/82301f008af228c62aaebe16607d8e69ae2f9239))
+* add even more small change ([dfcd116](https://github.com/dgellow/test-release-please-behaviour/commit/dfcd116db44a400cf39da5217b9850204596ab8b))
+* add more, and more small changes ([295ec91](https://github.com/dgellow/test-release-please-behaviour/commit/295ec913390c9e8084fa4c5a617cb4b0cf95e263))
+
 ## [1.10.0](https://github.com/dgellow/test-release-please-behaviour/compare/v1.9.0...v1.10.0) (2023-08-22)
 
 
