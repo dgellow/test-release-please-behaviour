@@ -3,15 +3,12 @@ on:
     branches:
       - main
 
-permissions:
-  contents: write
-  pull-requests: write
-
 name: create GitHub release
+
+permissions: write-all
 
 jobs:
   release-please:
-    permissions: write-all
     runs-on: ubuntu-latest
     steps:
       - uses: dgellow/release-please-action@main
