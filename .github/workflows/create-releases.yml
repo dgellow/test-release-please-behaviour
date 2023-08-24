@@ -3,9 +3,11 @@ on:
     branches:
       - main
 
-name: create GitHub release
+permissions:
+  contents: write
+  pull-requests: write
 
-permissions: write-all
+name: create GitHub release
 
 jobs:
   release-please:
